@@ -32,27 +32,6 @@ The goal is to understand how data travels across a network — from one device 
 
 - **Python 3**
 
----
-
-## 🚀 How to Run
-
-### Requirements
-```bash
-pip install scapy
-```
-
-### Run the program
-```bash
-# Windows (Run terminal as Administrator)
-py network_sniffer.py
-
-# Linux/Mac (requires root privileges)
-sudo python3 network_sniffer.py
-```
-
-> **Note:** Capturing live network packets requires administrator/root privileges, since it accesses raw network data directly.
-
----
 
 ## 📸 Sample Output
 
