@@ -31,7 +31,6 @@ The goal is to understand how data travels across a network — from one device 
 ## 🛠️ Technologies Used
 
 - **Python 3**
-- **Scapy** library (for real packet capture)
 
 ---
 
